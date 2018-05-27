@@ -1,3 +1,6 @@
+.DS_Store
+DCGAN-MNIST_pytorch/checkpoints/
+DCGAN-MNIST_pytorch/dataset/
 # Matlab data file
 *.mat
 
